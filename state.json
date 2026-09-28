@@ -1,11 +1,11 @@
 {
- "as_of": "2026-09-28T20:46:27+00:00",
+ "as_of": "2026-09-28T21:30:56+00:00",
  "stale": false,
  "basis": 10000,
  "inception": "2026-09-17",
  "tracks": {
   "apollo": {
-   "value": 10194.01,
+   "value": 10193.79,
    "cash": -0.0,
    "return_pct": 1.94,
    "positions": [
@@ -14,8 +14,8 @@
      "side": "long",
      "shares": 0.039337,
      "entry": 76264.6875,
-     "price": 83442.49,
-     "value": 3282.35,
+     "price": 83437.05,
+     "value": 3282.14,
      "weight": 32.2,
      "source": "owner directive",
      "note": "",
@@ -116,7 +116,7 @@
    ]
   },
   "tyche": {
-   "value": 10194.01,
+   "value": 10193.79,
    "cash": -0.0,
    "return_pct": 1.94,
    "positions": [
@@ -125,8 +125,8 @@
      "side": "long",
      "shares": 0.039337,
      "entry": 76264.6875,
-     "price": 83442.49,
-     "value": 3282.35,
+     "price": 83437.05,
+     "value": 3282.14,
      "weight": 32.2,
      "source": "owner directive",
      "note": "",
@@ -239,9 +239,9 @@
    "return_pct": -0.38
   },
   "BTC-USD": {
-   "value": 10941.17,
-   "price": 83442.49,
-   "return_pct": 9.41
+   "value": 10940.46,
+   "price": 83437.05,
+   "return_pct": 9.4
   }
  },
  "assumptions": "whole shares where the money covers one, remainder fractional; no commissions or slippage; market holidays not modelled"
