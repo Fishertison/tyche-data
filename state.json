@@ -1,91 +1,91 @@
 {
- "as_of": "2026-09-29T15:28:25+00:00",
+ "as_of": "2026-09-29T15:31:31+00:00",
  "stale": false,
  "basis": 10000,
  "inception": "2026-09-17",
  "tracks": {
   "apollo": {
-   "value": 10135.38,
+   "value": 10158.24,
    "cash": 0.0,
-   "return_pct": 1.35,
+   "return_pct": 1.58,
    "positions": [
     {
      "symbol": "^GSPC",
      "side": "short",
-     "shares": 0.926424,
-     "entry": 7658.3,
-     "price": 7658.3,
-     "value": 7094.84,
-     "weight": 70.0,
+     "shares": 0.924023,
+     "entry": 7680.77001953125,
+     "price": 7658.62,
+     "value": 7117.68,
+     "weight": 70.1,
      "source": "owner directive",
-     "note": "keep btc short s&p \u2014 six-hour window, called two hours ago; entered at the price when recorded, closes four hours from now",
+     "note": "keep btc short s&p \u2014 six-hour window called at 13:30 UTC. Entered at the S&P price at that moment (7,680.77), not the price when this was recorded. Backdated entry, disclosed: the portfolio never traded at 13:30.",
      "horizon_days": 0,
-     "opened": "2026-09-29T15:28:24+00:00"
+     "opened": "2026-09-29T15:31:30+00:00"
     },
     {
      "symbol": "BTC-USD",
      "side": "long",
-     "shares": 0.036665,
-     "entry": 82929.93,
-     "price": 82927.15,
-     "value": 3040.54,
-     "weight": 30.0,
+     "shares": 0.036637,
+     "entry": 83021.35,
+     "price": 82991.47,
+     "value": 3040.57,
+     "weight": 29.9,
      "source": "owner directive",
      "note": "",
      "horizon_days": 0,
-     "opened": "2026-09-29T15:28:24+00:00"
+     "opened": "2026-09-29T15:31:30+00:00"
     }
    ]
   },
   "tyche": {
-   "value": 10135.38,
+   "value": 10158.24,
    "cash": 0.0,
-   "return_pct": 1.35,
+   "return_pct": 1.58,
    "positions": [
     {
      "symbol": "^GSPC",
      "side": "short",
-     "shares": 0.926424,
-     "entry": 7658.3,
-     "price": 7658.3,
-     "value": 7094.84,
-     "weight": 70.0,
+     "shares": 0.924023,
+     "entry": 7680.77001953125,
+     "price": 7658.62,
+     "value": 7117.68,
+     "weight": 70.1,
      "source": "owner directive",
-     "note": "keep btc short s&p \u2014 six-hour window, called two hours ago; entered at the price when recorded, closes four hours from now",
+     "note": "keep btc short s&p \u2014 six-hour window called at 13:30 UTC. Entered at the S&P price at that moment (7,680.77), not the price when this was recorded. Backdated entry, disclosed: the portfolio never traded at 13:30.",
      "horizon_days": 0,
-     "opened": "2026-09-29T15:28:24+00:00"
+     "opened": "2026-09-29T15:31:30+00:00"
     },
     {
      "symbol": "BTC-USD",
      "side": "long",
-     "shares": 0.036665,
-     "entry": 82929.93,
-     "price": 82927.15,
-     "value": 3040.54,
-     "weight": 30.0,
+     "shares": 0.036637,
+     "entry": 83021.35,
+     "price": 82991.47,
+     "value": 3040.57,
+     "weight": 29.9,
      "source": "owner directive",
      "note": "",
      "horizon_days": 0,
-     "opened": "2026-09-29T15:28:24+00:00"
+     "opened": "2026-09-29T15:31:30+00:00"
     }
    ]
   }
  },
  "benchmarks": {
   "^GSPC": {
-   "value": 10048.03,
-   "price": 7658.3,
+   "value": 10048.45,
+   "price": 7658.62,
    "return_pct": 0.48
   },
   "^DJI": {
-   "value": 9897.92,
-   "price": 51150.63,
-   "return_pct": -1.02
+   "value": 9901.16,
+   "price": 51167.38,
+   "return_pct": -0.99
   },
   "BTC-USD": {
-   "value": 10873.6,
-   "price": 82927.15,
-   "return_pct": 8.74
+   "value": 10882.03,
+   "price": 82991.47,
+   "return_pct": 8.82
   }
  },
  "assumptions": "whole shares where the money covers one, remainder fractional; no commissions or slippage; market holidays not modelled"
