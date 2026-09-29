@@ -1,0 +1,44 @@
+{
+ "session": "2026-09-29-1",
+ "state": "posted",
+ "hash": "5aa1d92e41009f3d57a3d79cc12494a78674642d9a8d636f47e51183b08fef82",
+ "rule": "Warm side of the enclosure = candidate 1. Cool side = candidate 2. Basking rock = candidate 3. No move inside the window = void.",
+ "candidates": [
+  {
+   "kind": "hold",
+   "label": "Hold the current book",
+   "rule": "warm side",
+   "significance": "low",
+   "id": 1
+  },
+  {
+   "kind": "short",
+   "label": "Short NVDA for three trading days",
+   "rule": "cool side",
+   "symbol": "NVDA",
+   "significance": "high",
+   "significance_pct": 0.3,
+   "horizon_days": 3,
+   "id": 2,
+   "symbol_display": "NVDA"
+  },
+  {
+   "kind": "allocation",
+   "label": "Rotate into MSFT and AMD, BTC to 35%",
+   "rule": "basking rock",
+   "significance": "high",
+   "stocks": [
+    "MSFT",
+    "AMD"
+   ],
+   "btc": 0.35,
+   "id": 3
+  }
+ ],
+ "note": "test set",
+ "in_dispute": null,
+ "movement_note": "",
+ "opened": null,
+ "deadline": null,
+ "pick": null
+}
