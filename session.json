@@ -1,6 +1,6 @@
 {
  "session": "2026-09-29-1",
- "state": "open",
+ "state": "picked",
  "hash": "5aa1d92e41009f3d57a3d79cc12494a78674642d9a8d636f47e51183b08fef82",
  "rule": "Warm side of the enclosure = candidate 1. Cool side = candidate 2. Basking rock = candidate 3. No move inside the window = void.",
  "candidates": [
@@ -40,6 +40,10 @@
  "movement_note": "moved to the cool side, away from the lamp",
  "opened": "2026-09-29T03:34:23+00:00",
  "deadline": "2026-09-29T03:39:23+00:00",
- "pick": null,
+ "pick": {
+  "candidate": 2,
+  "label": "Short NVDA for three trading days",
+  "ts": "2026-09-29T03:34:43+00:00"
+ },
  "window_minutes": 5
 }
