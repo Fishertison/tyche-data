@@ -1,12 +1,12 @@
 {
  "session": "2026-09-29-2",
- "state": "open",
+ "state": "void",
  "hash": "5aa1d92e41009f3d57a3d79cc12494a78674642d9a8d636f47e51183b08fef82",
  "rule": "Warm side of the enclosure = candidate 1. Cool side = candidate 2. Basking rock = candidate 3. No move inside the window = void.",
  "candidates": [
   {
    "kind": "hold",
-   "label": "Hold the current book",
+   "label": "Something nobody agreed to",
    "rule": "warm side",
    "significance": "low",
    "id": 1
@@ -36,10 +36,11 @@
   }
  ],
  "note": "test set",
- "in_dispute": 1,
+ "in_dispute": null,
  "movement_note": "",
  "opened": "2026-09-29T03:35:04+00:00",
  "deadline": "2026-09-29T03:40:04+00:00",
  "pick": null,
- "window_minutes": 5
+ "window_minutes": 5,
+ "reason": "tampered set, rerunning"
 }
