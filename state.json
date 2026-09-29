@@ -1,21 +1,21 @@
 {
- "as_of": "2026-09-29T03:34:44+00:00",
+ "as_of": "2026-09-29T03:37:44+00:00",
  "stale": false,
  "basis": 10000,
  "inception": "2026-09-17",
  "tracks": {
   "apollo": {
-   "value": 9999.93,
+   "value": 9998.47,
    "cash": -0.0,
-   "return_pct": -0.0,
+   "return_pct": -0.02,
    "positions": [
     {
      "symbol": "BTC-USD",
      "side": "long",
      "shares": 0.036068,
      "entry": 83175.88,
-     "price": 83174.05,
-     "value": 2999.93,
+     "price": 83133.41,
+     "value": 2998.47,
      "weight": 30.0,
      "source": "owner directive",
      "note": "",
@@ -64,9 +64,9 @@
    ]
   },
   "tyche": {
-   "value": 9999.89,
+   "value": 9998.86,
    "cash": 0.0,
-   "return_pct": -0.0,
+   "return_pct": -0.01,
    "positions": [
     {
      "symbol": "NVDA",
@@ -86,8 +86,8 @@
      "side": "long",
      "shares": 0.025249,
      "entry": 83169.59,
-     "price": 83174.05,
-     "value": 2100.07,
+     "price": 83133.41,
+     "value": 2099.04,
      "weight": 21.0,
      "source": "owner directive",
      "note": "",
@@ -148,9 +148,9 @@
    "return_pct": 0.0
   },
   "BTC-USD": {
-   "value": 9999.78,
-   "price": 83174.05,
-   "return_pct": -0.0
+   "value": 9994.89,
+   "price": 83133.41,
+   "return_pct": -0.05
   }
  },
  "assumptions": "whole shares where the money covers one, remainder fractional; no commissions or slippage; market holidays not modelled"
