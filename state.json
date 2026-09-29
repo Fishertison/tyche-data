@@ -1,195 +1,91 @@
 {
- "as_of": "2026-09-29T15:27:45+00:00",
+ "as_of": "2026-09-29T15:27:51+00:00",
  "stale": false,
  "basis": 10000,
  "inception": "2026-09-17",
  "tracks": {
   "apollo": {
-   "value": 9998.6,
-   "cash": -0.0,
+   "value": 9998.58,
+   "cash": 0.0,
    "return_pct": -0.01,
    "positions": [
     {
+     "symbol": "^GSPC",
+     "side": "short",
+     "shares": 0.914015,
+     "entry": 7657.35,
+     "price": 7657.23,
+     "value": 6999.04,
+     "weight": 70.0,
+     "source": "owner directive",
+     "note": "test",
+     "horizon_days": 0,
+     "opened": "2026-09-29T15:27:51+00:00"
+    },
+    {
      "symbol": "BTC-USD",
      "side": "long",
-     "shares": 0.036182,
-     "entry": 82914.19,
-     "price": 82925.08,
-     "value": 3000.39,
+     "shares": 0.036178,
+     "entry": 82910.55,
+     "price": 82910.55,
+     "value": 2999.54,
      "weight": 30.0,
      "source": "owner directive",
      "note": "",
      "horizon_days": 0,
-     "opened": "2026-09-17T00:00:00+00:00"
-    },
-    {
-     "symbol": "META",
-     "side": "long",
-     "shares": 1.943041,
-     "entry": 720.52,
-     "price": 720.464,
-     "value": 1399.89,
-     "weight": 14.0,
-     "source": "news scan",
-     "note": "",
-     "horizon_days": 0,
-     "opened": "2026-09-17T00:00:00+00:00"
-    },
-    {
-     "symbol": "DELL",
-     "side": "long",
-     "shares": 2.584075,
-     "entry": 541.78,
-     "price": 541.155,
-     "value": 1398.38,
-     "weight": 14.0,
-     "source": "news scan",
-     "note": "",
-     "horizon_days": 0,
-     "opened": "2026-09-17T00:00:00+00:00"
-    },
-    {
-     "symbol": "CAT",
-     "side": "long",
-     "shares": 1.715854,
-     "entry": 815.92,
-     "price": 815.92,
-     "value": 1400.0,
-     "weight": 14.0,
-     "source": "news scan",
-     "note": "",
-     "horizon_days": 0,
-     "opened": "2026-09-17T00:00:00+00:00"
-    },
-    {
-     "symbol": "DE",
-     "side": "long",
-     "shares": 2.054021,
-     "entry": 681.59,
-     "price": 681.59,
-     "value": 1400.0,
-     "weight": 14.0,
-     "source": "news scan",
-     "note": "",
-     "horizon_days": 0,
-     "opened": "2026-09-17T00:00:00+00:00"
-    },
-    {
-     "symbol": "^GSPC",
-     "side": "long",
-     "shares": 0.182828,
-     "entry": 7657.46,
-     "price": 7657.1,
-     "value": 1399.93,
-     "weight": 14.0,
-     "source": "news scan",
-     "note": "",
-     "horizon_days": 0,
-     "opened": "2026-09-17T00:00:00+00:00"
+     "opened": "2026-09-29T15:27:51+00:00"
     }
    ]
   },
   "tyche": {
-   "value": 9998.6,
-   "cash": -0.0,
+   "value": 9998.58,
+   "cash": 0.0,
    "return_pct": -0.01,
    "positions": [
     {
+     "symbol": "^GSPC",
+     "side": "short",
+     "shares": 0.914015,
+     "entry": 7657.35,
+     "price": 7657.23,
+     "value": 6999.04,
+     "weight": 70.0,
+     "source": "owner directive",
+     "note": "test",
+     "horizon_days": 0,
+     "opened": "2026-09-29T15:27:51+00:00"
+    },
+    {
      "symbol": "BTC-USD",
      "side": "long",
-     "shares": 0.036182,
-     "entry": 82914.19,
-     "price": 82925.08,
-     "value": 3000.39,
+     "shares": 0.036178,
+     "entry": 82910.55,
+     "price": 82910.55,
+     "value": 2999.54,
      "weight": 30.0,
      "source": "owner directive",
      "note": "",
      "horizon_days": 0,
-     "opened": "2026-09-17T00:00:00+00:00"
-    },
-    {
-     "symbol": "META",
-     "side": "long",
-     "shares": 1.943041,
-     "entry": 720.52,
-     "price": 720.464,
-     "value": 1399.89,
-     "weight": 14.0,
-     "source": "news scan",
-     "note": "",
-     "horizon_days": 0,
-     "opened": "2026-09-17T00:00:00+00:00"
-    },
-    {
-     "symbol": "DELL",
-     "side": "long",
-     "shares": 2.584075,
-     "entry": 541.78,
-     "price": 541.155,
-     "value": 1398.38,
-     "weight": 14.0,
-     "source": "news scan",
-     "note": "",
-     "horizon_days": 0,
-     "opened": "2026-09-17T00:00:00+00:00"
-    },
-    {
-     "symbol": "CAT",
-     "side": "long",
-     "shares": 1.715854,
-     "entry": 815.92,
-     "price": 815.92,
-     "value": 1400.0,
-     "weight": 14.0,
-     "source": "news scan",
-     "note": "",
-     "horizon_days": 0,
-     "opened": "2026-09-17T00:00:00+00:00"
-    },
-    {
-     "symbol": "DE",
-     "side": "long",
-     "shares": 2.054021,
-     "entry": 681.59,
-     "price": 681.59,
-     "value": 1400.0,
-     "weight": 14.0,
-     "source": "news scan",
-     "note": "",
-     "horizon_days": 0,
-     "opened": "2026-09-17T00:00:00+00:00"
-    },
-    {
-     "symbol": "^GSPC",
-     "side": "long",
-     "shares": 0.182828,
-     "entry": 7657.46,
-     "price": 7657.1,
-     "value": 1399.93,
-     "weight": 14.0,
-     "source": "news scan",
-     "note": "",
-     "horizon_days": 0,
-     "opened": "2026-09-17T00:00:00+00:00"
+     "opened": "2026-09-29T15:27:51+00:00"
     }
    ]
   }
  },
  "benchmarks": {
   "^GSPC": {
-   "value": 9999.53,
-   "price": 7657.1,
+   "value": 9999.7,
+   "price": 7657.23,
    "return_pct": -0.0
   },
   "^DJI": {
-   "value": 9999.3,
-   "price": 51145.99,
-   "return_pct": -0.01
+   "value": 9999.58,
+   "price": 51147.42,
+   "return_pct": -0.0
   },
   "BTC-USD": {
-   "value": 10001.31,
-   "price": 82925.08,
-   "return_pct": 0.01
+   "value": 9999.56,
+   "price": 82910.55,
+   "return_pct": -0.0
   }
  },
  "assumptions": "whole shares where the money covers one, remainder fractional; no commissions or slippage; market holidays not modelled"
