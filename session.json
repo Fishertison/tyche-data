@@ -1,6 +1,6 @@
 {
  "session": "2026-09-29-2",
- "state": "posted",
+ "state": "open",
  "hash": "5aa1d92e41009f3d57a3d79cc12494a78674642d9a8d636f47e51183b08fef82",
  "rule": "Warm side of the enclosure = candidate 1. Cool side = candidate 2. Basking rock = candidate 3. No move inside the window = void.",
  "candidates": [
@@ -36,9 +36,10 @@
   }
  ],
  "note": "test set",
- "in_dispute": null,
+ "in_dispute": 1,
  "movement_note": "",
- "opened": null,
- "deadline": null,
- "pick": null
+ "opened": "2026-09-29T03:35:04+00:00",
+ "deadline": "2026-09-29T03:40:04+00:00",
+ "pick": null,
+ "window_minutes": 5
 }
