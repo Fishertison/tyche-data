@@ -1,98 +1,98 @@
 {
- "as_of": "2026-10-26T00:51:05+00:00",
+ "as_of": "2026-10-26T01:03:39+00:00",
  "stale": false,
  "basis": 10000,
  "inception": "2026-09-17",
  "tracks": {
   "apollo": {
-   "value": 13216.77,
-   "cash": 0.0,
-   "return_pct": 32.17,
+   "value": 13224.27,
+   "cash": -0.0,
+   "return_pct": 32.24,
    "positions": [
     {
-     "symbol": "QQQ",
-     "side": "short",
-     "shares": 5.512152,
-     "entry": 737.9600219726562,
-     "price": 704.4,
-     "value": 4252.74,
-     "weight": 32.2,
+     "symbol": "BRK-B",
+     "side": "long",
+     "shares": 9.756187,
+     "entry": 542.19,
+     "price": 542.19,
+     "value": 5289.71,
+     "weight": 40.0,
      "source": "owner directive",
-     "note": "set Sept 29, recorded Oct 25",
+     "note": "Owner view: cash pile, insurance float and little tech exposure let Berkshire ride out an AI-bubble pop.",
      "horizon_days": 0,
-     "opened": "2026-09-29T20:00:00+00:00"
+     "opened": "2026-10-26T01:03:37+00:00"
+    },
+    {
+     "symbol": "MSFT",
+     "side": "long",
+     "shares": 10.085045,
+     "entry": 524.51,
+     "price": 524.51,
+     "value": 5289.71,
+     "weight": 40.0,
+     "source": "owner directive",
+     "note": "Owner view: Microsoft's quantum computing work is a near-term option on top of its cloud business.",
+     "horizon_days": 0,
+     "opened": "2026-10-26T01:03:37+00:00"
     },
     {
      "symbol": "BTC-USD",
      "side": "long",
-     "shares": 0.036529,
-     "entry": 83517.0,
-     "price": 79945.96,
-     "value": 2920.37,
-     "weight": 22.1,
+     "shares": 0.032998,
+     "entry": 80151.3,
+     "price": 80151.3,
+     "value": 2644.85,
+     "weight": 20.0,
      "source": "owner directive",
-     "note": "set Sept 29, recorded Oct 25",
+     "note": "Owner view: Wednesday's Fed rate decision will probably scare the market, so BTC is cut to 20%.",
      "horizon_days": 0,
-     "opened": "2026-09-29T20:00:00+00:00"
-    },
-    {
-     "symbol": "BRZE",
-     "side": "long",
-     "shares": 131.72766,
-     "entry": 23.15999984741211,
-     "price": 45.88,
-     "value": 6043.67,
-     "weight": 45.7,
-     "source": "owner directive",
-     "note": "set Sept 29, recorded Oct 25",
-     "horizon_days": 0,
-     "opened": "2026-09-29T20:00:00+00:00"
+     "opened": "2026-10-26T01:03:37+00:00"
     }
    ]
   },
   "tyche": {
-   "value": 13216.77,
-   "cash": 0.0,
-   "return_pct": 32.17,
+   "value": 13224.27,
+   "cash": -0.0,
+   "return_pct": 32.24,
    "positions": [
     {
-     "symbol": "QQQ",
-     "side": "short",
-     "shares": 5.512152,
-     "entry": 737.9600219726562,
-     "price": 704.4,
-     "value": 4252.74,
-     "weight": 32.2,
+     "symbol": "BRK-B",
+     "side": "long",
+     "shares": 9.756187,
+     "entry": 542.19,
+     "price": 542.19,
+     "value": 5289.71,
+     "weight": 40.0,
      "source": "owner directive",
-     "note": "set Sept 29, recorded Oct 25",
+     "note": "Owner view: cash pile, insurance float and little tech exposure let Berkshire ride out an AI-bubble pop.",
      "horizon_days": 0,
-     "opened": "2026-09-29T20:00:00+00:00"
+     "opened": "2026-10-26T01:03:37+00:00"
+    },
+    {
+     "symbol": "MSFT",
+     "side": "long",
+     "shares": 10.085045,
+     "entry": 524.51,
+     "price": 524.51,
+     "value": 5289.71,
+     "weight": 40.0,
+     "source": "owner directive",
+     "note": "Owner view: Microsoft's quantum computing work is a near-term option on top of its cloud business.",
+     "horizon_days": 0,
+     "opened": "2026-10-26T01:03:37+00:00"
     },
     {
      "symbol": "BTC-USD",
      "side": "long",
-     "shares": 0.036529,
-     "entry": 83517.0,
-     "price": 79945.96,
-     "value": 2920.37,
-     "weight": 22.1,
+     "shares": 0.032998,
+     "entry": 80151.3,
+     "price": 80151.3,
+     "value": 2644.85,
+     "weight": 20.0,
      "source": "owner directive",
-     "note": "set Sept 29, recorded Oct 25",
+     "note": "Owner view: Wednesday's Fed rate decision will probably scare the market, so BTC is cut to 20%.",
      "horizon_days": 0,
-     "opened": "2026-09-29T20:00:00+00:00"
-    },
-    {
-     "symbol": "BRZE",
-     "side": "long",
-     "shares": 131.72766,
-     "entry": 23.15999984741211,
-     "price": 45.88,
-     "value": 6043.67,
-     "weight": 45.7,
-     "source": "owner directive",
-     "note": "set Sept 29, recorded Oct 25",
-     "horizon_days": 0,
-     "opened": "2026-09-29T20:00:00+00:00"
+     "opened": "2026-10-26T01:03:37+00:00"
     }
    ]
   }
@@ -109,9 +109,9 @@
    "return_pct": 1.04
   },
   "BTC-USD": {
-   "value": 10482.7,
-   "price": 79945.96,
-   "return_pct": 4.83
+   "value": 10509.62,
+   "price": 80151.3,
+   "return_pct": 5.1
   }
  },
  "assumptions": "whole shares where the money covers one, remainder fractional; no commissions or slippage; market holidays not modelled"
