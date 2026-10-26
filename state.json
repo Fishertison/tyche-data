@@ -1,91 +1,117 @@
 {
- "as_of": "2026-09-29T15:31:31+00:00",
+ "as_of": "2026-10-26T00:51:05+00:00",
  "stale": false,
  "basis": 10000,
  "inception": "2026-09-17",
  "tracks": {
   "apollo": {
-   "value": 10158.24,
+   "value": 13216.77,
    "cash": 0.0,
-   "return_pct": 1.58,
+   "return_pct": 32.17,
    "positions": [
     {
-     "symbol": "^GSPC",
+     "symbol": "QQQ",
      "side": "short",
-     "shares": 0.924023,
-     "entry": 7680.77001953125,
-     "price": 7658.62,
-     "value": 7117.68,
-     "weight": 70.1,
+     "shares": 5.512152,
+     "entry": 737.9600219726562,
+     "price": 704.4,
+     "value": 4252.74,
+     "weight": 32.2,
      "source": "owner directive",
-     "note": "keep btc short s&p \u2014 six-hour window called at 13:30 UTC. Entered at the S&P price at that moment (7,680.77), not the price when this was recorded. Backdated entry, disclosed: the portfolio never traded at 13:30.",
+     "note": "set Sept 29, recorded Oct 25",
      "horizon_days": 0,
-     "opened": "2026-09-29T15:31:30+00:00"
+     "opened": "2026-09-29T20:00:00+00:00"
     },
     {
      "symbol": "BTC-USD",
      "side": "long",
-     "shares": 0.036637,
-     "entry": 83021.35,
-     "price": 82991.47,
-     "value": 3040.57,
-     "weight": 29.9,
+     "shares": 0.036529,
+     "entry": 83517.0,
+     "price": 79945.96,
+     "value": 2920.37,
+     "weight": 22.1,
      "source": "owner directive",
-     "note": "",
+     "note": "set Sept 29, recorded Oct 25",
      "horizon_days": 0,
-     "opened": "2026-09-29T15:31:30+00:00"
+     "opened": "2026-09-29T20:00:00+00:00"
+    },
+    {
+     "symbol": "BRZE",
+     "side": "long",
+     "shares": 131.72766,
+     "entry": 23.15999984741211,
+     "price": 45.88,
+     "value": 6043.67,
+     "weight": 45.7,
+     "source": "owner directive",
+     "note": "set Sept 29, recorded Oct 25",
+     "horizon_days": 0,
+     "opened": "2026-09-29T20:00:00+00:00"
     }
    ]
   },
   "tyche": {
-   "value": 10158.24,
+   "value": 13216.77,
    "cash": 0.0,
-   "return_pct": 1.58,
+   "return_pct": 32.17,
    "positions": [
     {
-     "symbol": "^GSPC",
+     "symbol": "QQQ",
      "side": "short",
-     "shares": 0.924023,
-     "entry": 7680.77001953125,
-     "price": 7658.62,
-     "value": 7117.68,
-     "weight": 70.1,
+     "shares": 5.512152,
+     "entry": 737.9600219726562,
+     "price": 704.4,
+     "value": 4252.74,
+     "weight": 32.2,
      "source": "owner directive",
-     "note": "keep btc short s&p \u2014 six-hour window called at 13:30 UTC. Entered at the S&P price at that moment (7,680.77), not the price when this was recorded. Backdated entry, disclosed: the portfolio never traded at 13:30.",
+     "note": "set Sept 29, recorded Oct 25",
      "horizon_days": 0,
-     "opened": "2026-09-29T15:31:30+00:00"
+     "opened": "2026-09-29T20:00:00+00:00"
     },
     {
      "symbol": "BTC-USD",
      "side": "long",
-     "shares": 0.036637,
-     "entry": 83021.35,
-     "price": 82991.47,
-     "value": 3040.57,
-     "weight": 29.9,
+     "shares": 0.036529,
+     "entry": 83517.0,
+     "price": 79945.96,
+     "value": 2920.37,
+     "weight": 22.1,
      "source": "owner directive",
-     "note": "",
+     "note": "set Sept 29, recorded Oct 25",
      "horizon_days": 0,
-     "opened": "2026-09-29T15:31:30+00:00"
+     "opened": "2026-09-29T20:00:00+00:00"
+    },
+    {
+     "symbol": "BRZE",
+     "side": "long",
+     "shares": 131.72766,
+     "entry": 23.15999984741211,
+     "price": 45.88,
+     "value": 6043.67,
+     "weight": 45.7,
+     "source": "owner directive",
+     "note": "set Sept 29, recorded Oct 25",
+     "horizon_days": 0,
+     "opened": "2026-09-29T20:00:00+00:00"
     }
    ]
   }
  },
  "benchmarks": {
   "^GSPC": {
-   "value": 10048.45,
-   "price": 7658.62,
-   "return_pct": 0.48
+   "value": 10002.61,
+   "price": 7623.68,
+   "return_pct": 0.03
   },
   "^DJI": {
-   "value": 9901.16,
-   "price": 51167.38,
-   "return_pct": -0.99
+   "value": 10103.91,
+   "price": 52215.16,
+   "return_pct": 1.04
   },
   "BTC-USD": {
-   "value": 10882.03,
-   "price": 82991.47,
-   "return_pct": 8.82
+   "value": 10482.7,
+   "price": 79945.96,
+   "return_pct": 4.83
   }
  },
  "assumptions": "whole shares where the money covers one, remainder fractional; no commissions or slippage; market holidays not modelled"
