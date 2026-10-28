@@ -1,22 +1,22 @@
 {
- "as_of": "2026-10-28T12:40:39+00:00",
+ "as_of": "2026-10-28T22:29:21+00:00",
  "stale": false,
  "basis": 10000,
  "inception": "2026-09-17",
  "tracks": {
   "apollo": {
-   "value": 13316.93,
+   "value": 13305.26,
    "cash": -0.0,
-   "return_pct": 33.17,
+   "return_pct": 33.05,
    "positions": [
     {
      "symbol": "BRK-B",
      "side": "long",
      "shares": 9.756187,
      "entry": 542.19,
-     "price": 542.99,
-     "value": 5297.51,
-     "weight": 39.8,
+     "price": 540.34,
+     "value": 5271.66,
+     "weight": 39.6,
      "source": "owner directive",
      "note": "Owner view: cash pile, insurance float and little tech exposure let Berkshire ride out an AI-bubble pop.",
      "horizon_days": 0,
@@ -27,8 +27,8 @@
      "side": "long",
      "shares": 10.085045,
      "entry": 524.51,
-     "price": 531.33,
-     "value": 5358.49,
+     "price": 531.01,
+     "value": 5355.26,
      "weight": 40.2,
      "source": "owner directive",
      "note": "Owner view: Microsoft's quantum computing work is a near-term option on top of its cloud business.",
@@ -40,9 +40,9 @@
      "side": "long",
      "shares": 0.032998,
      "entry": 80151.3,
-     "price": 80638.48,
-     "value": 2660.93,
-     "weight": 20.0,
+     "price": 81166.12,
+     "value": 2678.34,
+     "weight": 20.1,
      "source": "owner directive",
      "note": "Owner view: Wednesday's Fed rate decision will probably scare the market, so BTC is cut to 20%.",
      "horizon_days": 0,
@@ -51,18 +51,18 @@
    ]
   },
   "tyche": {
-   "value": 13316.93,
+   "value": 13305.26,
    "cash": -0.0,
-   "return_pct": 33.17,
+   "return_pct": 33.05,
    "positions": [
     {
      "symbol": "BRK-B",
      "side": "long",
      "shares": 9.756187,
      "entry": 542.19,
-     "price": 542.99,
-     "value": 5297.51,
-     "weight": 39.8,
+     "price": 540.34,
+     "value": 5271.66,
+     "weight": 39.6,
      "source": "owner directive",
      "note": "Owner view: cash pile, insurance float and little tech exposure let Berkshire ride out an AI-bubble pop.",
      "horizon_days": 0,
@@ -73,8 +73,8 @@
      "side": "long",
      "shares": 10.085045,
      "entry": 524.51,
-     "price": 531.33,
-     "value": 5358.49,
+     "price": 531.01,
+     "value": 5355.26,
      "weight": 40.2,
      "source": "owner directive",
      "note": "Owner view: Microsoft's quantum computing work is a near-term option on top of its cloud business.",
@@ -86,9 +86,9 @@
      "side": "long",
      "shares": 0.032998,
      "entry": 80151.3,
-     "price": 80638.48,
-     "value": 2660.93,
-     "weight": 20.0,
+     "price": 81166.12,
+     "value": 2678.34,
+     "weight": 20.1,
      "source": "owner directive",
      "note": "Owner view: Wednesday's Fed rate decision will probably scare the market, so BTC is cut to 20%.",
      "horizon_days": 0,
@@ -99,19 +99,19 @@
  },
  "benchmarks": {
   "^GSPC": {
-   "value": 10132.4,
-   "price": 7722.6,
-   "return_pct": 1.32
+   "value": 10160.45,
+   "price": 7743.98,
+   "return_pct": 1.6
   },
   "^DJI": {
-   "value": 10135.34,
-   "price": 52377.57,
-   "return_pct": 1.35
+   "value": 10154.21,
+   "price": 52475.1,
+   "return_pct": 1.54
   },
   "BTC-USD": {
-   "value": 10573.5,
-   "price": 80638.48,
-   "return_pct": 5.74
+   "value": 10642.69,
+   "price": 81166.12,
+   "return_pct": 6.43
   }
  },
  "assumptions": "whole shares where the money covers one, remainder fractional; no commissions or slippage; market holidays not modelled"
