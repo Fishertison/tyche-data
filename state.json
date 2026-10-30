@@ -1,13 +1,13 @@
 {
- "as_of": "2026-10-29T22:40:56+00:00",
+ "as_of": "2026-10-30T05:34:13+00:00",
  "stale": false,
  "basis": 10000,
  "inception": "2026-09-17",
  "tracks": {
   "apollo": {
-   "value": 13240.31,
+   "value": 13224.22,
    "cash": -0.0,
-   "return_pct": 32.4,
+   "return_pct": 32.24,
    "positions": [
     {
      "symbol": "BRK-B",
@@ -16,7 +16,7 @@
      "entry": 542.19,
      "price": 541.96,
      "value": 5287.46,
-     "weight": 39.9,
+     "weight": 40.0,
      "source": "owner directive",
      "note": "Owner view: cash pile, insurance float and little tech exposure let Berkshire ride out an AI-bubble pop.",
      "horizon_days": 0,
@@ -40,9 +40,9 @@
      "side": "long",
      "shares": 0.032998,
      "entry": 80151.3,
-     "price": 78984.69,
-     "value": 2606.36,
-     "weight": 19.7,
+     "price": 78497.2,
+     "value": 2590.27,
+     "weight": 19.6,
      "source": "owner directive",
      "note": "Owner view: Wednesday's Fed rate decision will probably scare the market, so BTC is cut to 20%.",
      "horizon_days": 0,
@@ -51,9 +51,9 @@
    ]
   },
   "tyche": {
-   "value": 13240.31,
+   "value": 13224.22,
    "cash": -0.0,
-   "return_pct": 32.4,
+   "return_pct": 32.24,
    "positions": [
     {
      "symbol": "BRK-B",
@@ -62,7 +62,7 @@
      "entry": 542.19,
      "price": 541.96,
      "value": 5287.46,
-     "weight": 39.9,
+     "weight": 40.0,
      "source": "owner directive",
      "note": "Owner view: cash pile, insurance float and little tech exposure let Berkshire ride out an AI-bubble pop.",
      "horizon_days": 0,
@@ -86,9 +86,9 @@
      "side": "long",
      "shares": 0.032998,
      "entry": 80151.3,
-     "price": 78984.69,
-     "value": 2606.36,
-     "weight": 19.7,
+     "price": 78497.2,
+     "value": 2590.27,
+     "weight": 19.6,
      "source": "owner directive",
      "note": "Owner view: Wednesday's Fed rate decision will probably scare the market, so BTC is cut to 20%.",
      "horizon_days": 0,
@@ -109,9 +109,9 @@
    "return_pct": 1.29
   },
   "BTC-USD": {
-   "value": 10356.65,
-   "price": 78984.69,
-   "return_pct": 3.57
+   "value": 10292.73,
+   "price": 78497.2,
+   "return_pct": 2.93
   }
  },
  "assumptions": "whole shares where the money covers one, remainder fractional; no commissions or slippage; market holidays not modelled"
