@@ -1,13 +1,13 @@
 {
- "as_of": "2026-11-04T23:34:02+00:00",
+ "as_of": "2026-11-05T06:28:41+00:00",
  "stale": false,
  "basis": 10000,
  "inception": "2026-09-17",
  "tracks": {
   "apollo": {
-   "value": 13907.86,
+   "value": 13910.46,
    "cash": -0.0,
-   "return_pct": 39.08,
+   "return_pct": 39.1,
    "positions": [
     {
      "symbol": "BRK-B",
@@ -40,8 +40,8 @@
      "side": "long",
      "shares": 0.032998,
      "entry": 80151.3,
-     "price": 80394.61,
-     "value": 2652.88,
+     "price": 80473.48,
+     "value": 2655.48,
      "weight": 19.1,
      "source": "owner directive",
      "note": "Owner view: Wednesday's Fed rate decision will probably scare the market, so BTC is cut to 20%.",
@@ -51,9 +51,9 @@
    ]
   },
   "tyche": {
-   "value": 13907.86,
+   "value": 13910.46,
    "cash": -0.0,
-   "return_pct": 39.08,
+   "return_pct": 39.1,
    "positions": [
     {
      "symbol": "BRK-B",
@@ -86,8 +86,8 @@
      "side": "long",
      "shares": 0.032998,
      "entry": 80151.3,
-     "price": 80394.61,
-     "value": 2652.88,
+     "price": 80473.48,
+     "value": 2655.48,
      "weight": 19.1,
      "source": "owner directive",
      "note": "Owner view: Wednesday's Fed rate decision will probably scare the market, so BTC is cut to 20%.",
@@ -109,9 +109,9 @@
    "return_pct": 3.25
   },
   "BTC-USD": {
-   "value": 10541.52,
-   "price": 80394.61,
-   "return_pct": 5.42
+   "value": 10551.87,
+   "price": 80473.48,
+   "return_pct": 5.52
   }
  },
  "assumptions": "whole shares where the money covers one, remainder fractional; no commissions or slippage; market holidays not modelled"
