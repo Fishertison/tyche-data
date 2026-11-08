@@ -1,13 +1,13 @@
 {
- "as_of": "2026-11-08T05:50:33+00:00",
+ "as_of": "2026-11-08T13:13:02+00:00",
  "stale": false,
  "basis": 10000,
  "inception": "2026-09-17",
  "tracks": {
   "apollo": {
-   "value": 13418.62,
+   "value": 13428.46,
    "cash": -0.0,
-   "return_pct": 34.19,
+   "return_pct": 34.28,
    "positions": [
     {
      "symbol": "BRK-B",
@@ -29,7 +29,7 @@
      "entry": 524.51,
      "price": 530.61,
      "value": 5351.23,
-     "weight": 39.9,
+     "weight": 39.8,
      "source": "owner directive",
      "note": "Owner view: Microsoft's quantum computing work is a near-term option on top of its cloud business.",
      "horizon_days": 0,
@@ -40,9 +40,9 @@
      "side": "long",
      "shares": 0.032998,
      "entry": 80151.3,
-     "price": 75691.5,
-     "value": 2497.69,
-     "weight": 18.6,
+     "price": 75989.68,
+     "value": 2507.53,
+     "weight": 18.7,
      "source": "owner directive",
      "note": "Owner view: Wednesday's Fed rate decision will probably scare the market, so BTC is cut to 20%.",
      "horizon_days": 0,
@@ -51,9 +51,9 @@
    ]
   },
   "tyche": {
-   "value": 13418.62,
+   "value": 13428.46,
    "cash": -0.0,
-   "return_pct": 34.19,
+   "return_pct": 34.28,
    "positions": [
     {
      "symbol": "BRK-B",
@@ -75,7 +75,7 @@
      "entry": 524.51,
      "price": 530.61,
      "value": 5351.23,
-     "weight": 39.9,
+     "weight": 39.8,
      "source": "owner directive",
      "note": "Owner view: Microsoft's quantum computing work is a near-term option on top of its cloud business.",
      "horizon_days": 0,
@@ -86,9 +86,9 @@
      "side": "long",
      "shares": 0.032998,
      "entry": 80151.3,
-     "price": 75691.5,
-     "value": 2497.69,
-     "weight": 18.6,
+     "price": 75989.68,
+     "value": 2507.53,
+     "weight": 18.7,
      "source": "owner directive",
      "note": "Owner view: Wednesday's Fed rate decision will probably scare the market, so BTC is cut to 20%.",
      "horizon_days": 0,
@@ -109,9 +109,9 @@
    "return_pct": -0.76
   },
   "BTC-USD": {
-   "value": 9924.84,
-   "price": 75691.5,
-   "return_pct": -0.75
+   "value": 9963.94,
+   "price": 75989.68,
+   "return_pct": -0.36
   }
  },
  "assumptions": "whole shares where the money covers one, remainder fractional; no commissions or slippage; market holidays not modelled"
