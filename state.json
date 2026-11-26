@@ -1,13 +1,13 @@
 {
- "as_of": "2026-11-25T21:34:59+00:00",
+ "as_of": "2026-11-26T08:01:47+00:00",
  "stale": false,
  "basis": 10000,
  "inception": "2026-09-17",
  "tracks": {
   "apollo": {
-   "value": 12581.82,
+   "value": 12589.86,
    "cash": -0.0,
-   "return_pct": 25.82,
+   "return_pct": 25.9,
    "positions": [
     {
      "symbol": "BRK-B",
@@ -29,7 +29,7 @@
      "entry": 524.51,
      "price": 489.93,
      "value": 4940.97,
-     "weight": 39.3,
+     "weight": 39.2,
      "source": "owner directive",
      "note": "Owner view: Microsoft's quantum computing work is a near-term option on top of its cloud business.",
      "horizon_days": 0,
@@ -40,9 +40,9 @@
      "side": "long",
      "shares": 0.032998,
      "entry": 80151.3,
-     "price": 60272.83,
-     "value": 1988.9,
-     "weight": 15.8,
+     "price": 60516.67,
+     "value": 1996.94,
+     "weight": 15.9,
      "source": "owner directive",
      "note": "Owner view: Wednesday's Fed rate decision will probably scare the market, so BTC is cut to 20%.",
      "horizon_days": 0,
@@ -51,9 +51,9 @@
    ]
   },
   "tyche": {
-   "value": 12581.82,
+   "value": 12589.86,
    "cash": -0.0,
-   "return_pct": 25.82,
+   "return_pct": 25.9,
    "positions": [
     {
      "symbol": "BRK-B",
@@ -75,7 +75,7 @@
      "entry": 524.51,
      "price": 489.93,
      "value": 4940.97,
-     "weight": 39.3,
+     "weight": 39.2,
      "source": "owner directive",
      "note": "Owner view: Microsoft's quantum computing work is a near-term option on top of its cloud business.",
      "horizon_days": 0,
@@ -86,9 +86,9 @@
      "side": "long",
      "shares": 0.032998,
      "entry": 80151.3,
-     "price": 60272.83,
-     "value": 1988.9,
-     "weight": 15.8,
+     "price": 60516.67,
+     "value": 1996.94,
+     "weight": 15.9,
      "source": "owner directive",
      "note": "Owner view: Wednesday's Fed rate decision will probably scare the market, so BTC is cut to 20%.",
      "horizon_days": 0,
@@ -109,9 +109,9 @@
    "return_pct": -2.89
   },
   "BTC-USD": {
-   "value": 7903.11,
-   "price": 60272.83,
-   "return_pct": -20.97
+   "value": 7935.08,
+   "price": 60516.67,
+   "return_pct": -20.65
   }
  },
  "assumptions": "whole shares where the money covers one, remainder fractional; no commissions or slippage; market holidays not modelled"
