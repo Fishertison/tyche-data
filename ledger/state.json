@@ -1,13 +1,13 @@
 {
- "as_of": "2026-11-27T21:03:42+00:00",
+ "as_of": "2026-11-28T07:33:09+00:00",
  "stale": false,
  "basis": 10000,
  "inception": "2026-09-17",
  "tracks": {
   "apollo": {
-   "value": 12608.23,
+   "value": 12604.76,
    "cash": -0.0,
-   "return_pct": 26.08,
+   "return_pct": 26.05,
    "positions": [
     {
      "symbol": "BRK-B",
@@ -16,7 +16,7 @@
      "entry": 542.19,
      "price": 580.79,
      "value": 5666.3,
-     "weight": 44.9,
+     "weight": 45.0,
      "source": "owner directive",
      "note": "Owner view: cash pile, insurance float and little tech exposure let Berkshire ride out an AI-bubble pop.",
      "horizon_days": 0,
@@ -40,8 +40,8 @@
      "side": "long",
      "shares": 0.032998,
      "entry": 80151.3,
-     "price": 59746.27,
-     "value": 1971.52,
+     "price": 59641.09,
+     "value": 1968.05,
      "weight": 15.6,
      "source": "owner directive",
      "note": "Owner view: Wednesday's Fed rate decision will probably scare the market, so BTC is cut to 20%.",
@@ -51,9 +51,9 @@
    ]
   },
   "tyche": {
-   "value": 12608.23,
+   "value": 12604.76,
    "cash": -0.0,
-   "return_pct": 26.08,
+   "return_pct": 26.05,
    "positions": [
     {
      "symbol": "BRK-B",
@@ -62,7 +62,7 @@
      "entry": 542.19,
      "price": 580.79,
      "value": 5666.3,
-     "weight": 44.9,
+     "weight": 45.0,
      "source": "owner directive",
      "note": "Owner view: cash pile, insurance float and little tech exposure let Berkshire ride out an AI-bubble pop.",
      "horizon_days": 0,
@@ -86,8 +86,8 @@
      "side": "long",
      "shares": 0.032998,
      "entry": 80151.3,
-     "price": 59746.27,
-     "value": 1971.52,
+     "price": 59641.09,
+     "value": 1968.05,
      "weight": 15.6,
      "source": "owner directive",
      "note": "Owner view: Wednesday's Fed rate decision will probably scare the market, so BTC is cut to 20%.",
@@ -109,9 +109,9 @@
    "return_pct": -1.75
   },
   "BTC-USD": {
-   "value": 7834.07,
-   "price": 59746.27,
-   "return_pct": -21.66
+   "value": 7820.28,
+   "price": 59641.09,
+   "return_pct": -21.8
   }
  },
  "assumptions": "whole shares where the money covers one, remainder fractional; no commissions or slippage; market holidays not modelled"
